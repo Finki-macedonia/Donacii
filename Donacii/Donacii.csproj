@@ -83,9 +83,13 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\shop-homepage.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="img\baner1.jpg" />
+    <Content Include="img\baner2.jpg" />
+    <Content Include="img\baner3.jpg" />
     <Content Include="img\logo.png" />
     <Content Include="broevi.html" />
     <Content Include="akcii.html" />
+    <Content Include="zanas.html" />
     <Content Include="nastani.html" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.js" />
